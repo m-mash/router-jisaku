@@ -3,3 +3,6 @@
 2/*.o
 3/pcap
 3/*.o
+4/bridge
+4/*.o
+.gdb_history
